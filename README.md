@@ -1,15 +1,24 @@
 ![MADE WITH RUBY](https://img.shields.io/badge/MADE_WITH-RUBY-A91401?style=flat)
 ![MADE FOR SKETCHUP](https://img.shields.io/badge/MADE_FOR-SKETCHUP-D32F2F?style=flat)
 
+
+## Installer l'extension
+
+1. Cliquez sur le bouton vert ![CODE](https://img.shields.io/badge/_-CODE-00FF00?style=flat) pui sur `Downloads ZIP`
+
+2. Une fois l'archive téléchargée, recherchez et ouvrez le dossier `sources` puis cliquez deux fois sur le fichier `installation.bat`
+
+3. Pour vérifier l'installation, ouvrez le fichier demo.skp
+
 ## Ajouter une animation
 
-1. Sélectionnez un **composant**
+2. Sélectionnez un **composant**
 
-1. Cliquez sur le bouton `Ajouter une animation` dans la barre d'outils
+2. Cliquez sur le bouton `Ajouter une animation` dans la barre d'outils
 
-1. Dans la fenêtre qui s'affiche, saisissez les informations sur l'animation :
+2. Dans la fenêtre qui s'affiche, saisissez les informations sur l'animation :
 
-1. Sélectionnez une ligne qui correspond à la trajectoire de l'objet
+2. Sélectionnez une ligne qui correspond à la trajectoire de l'objet
 
 > [!CAUTION]
 > La ligne doit être droite car l'extension ne supporte pas encore les trajectoires arrondies ni les rotations
@@ -20,7 +29,7 @@
 > [!CAUTION]
 > Ajouter une animation à un composant qui en possède déjà une pour la mettre à jour
 
-1. Cliquez sur le bouton `Ajouter l'animation`
+2. Cliquez sur le bouton `Ajouter l'animation`
 
 ⚠️ La trajectoire a été ajoutée
 
