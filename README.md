@@ -4,9 +4,9 @@
 
 ## Installer l'extension
 
-1. Cliquez sur le bouton vert ![CODE](https://img.shields.io/badge/_-CODE-00FF00?style=flat) > ![CODE](https://img.shields.io/badge/Downloads-ZIP-000000?style=flat)
+1. Cliquez sur le bouton vert ![CODE](https://img.shields.io/badge/_-CODE-00FF00?style=flat) puis ![CODE](https://img.shields.io/badge/Downloads-ZIP-FFFFFF?style=flat)
 
-2. Une fois l'archive téléchargée, recherchez et ouvrez le dossier `sources` puis cliquez deux fois sur le fichier `installation.bat`
+2. Une fois l'archive téléchargée, recherchez et ouvrez le dossier `sources`. Pour installer l'extension, cliquez deux fois sur le fichier `installation.bat`
 
 3. Pour vérifier l'installation, ouvrez le fichier demo.skp
 
