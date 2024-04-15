@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Animer un objet</title>
+</head>
+<body>
+	<h3>Nom de l'animation : </h3>
+	<input type="text" id="name">
+
+	<h3>Durée de l'animation (en s) : </h3>
+	<input type="number" id="duration" min="1">
+
+	<h3>Durée avant l'animation (en s) : </h3>
+	<input type="number" id="wait" min="0">
+
+	<h4><i>Sélectionnez une ligne pour animer l'objet</i></h4>
+
+  <button onclick="envoyerValeur()">
+    Ajouter l'animation
+  </button>
+	<script type="text/javascript" src="script.js"></script>
+</body>
+</html>
