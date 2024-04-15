@@ -4,7 +4,7 @@
 
 ## Installer l'extension
 
-1. Cliquez sur le bouton vert ![CODE](https://img.shields.io/badge/_-CODE-00FF00?style=flat) pui sur `Downloads ZIP`
+1. Cliquez sur le bouton vert ![CODE](https://img.shields.io/badge/_-CODE-00FF00?style=flat) > ![CODE](https://img.shields.io/badge/Downloads-ZIP-000000?style=flat)
 
 2. Une fois l'archive téléchargée, recherchez et ouvrez le dossier `sources` puis cliquez deux fois sur le fichier `installation.bat`
 
